@@ -21,7 +21,7 @@ function preload(){
     playerImg = loadImage("truck.png")
     groundImage = loadImage("forest.jpg");
     gameOverImg = loadImage("gameOver.jpg")
-    playButtonImg = loadImage("restart.png")
+
     startImg = loadImage("start.jpg")
      restartImg = loadImage("reset.png")
     
